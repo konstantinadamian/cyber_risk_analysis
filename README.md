@@ -36,5 +36,5 @@ SHAP summary plots to analyze model behavior
 
 Identification of top contributing features (e.g., gesture_duration, latency, encryption_status, gesture type)
 
-📊 Objective
+📊Objective
 To build a robust and interpretable machine learning model that can detect cyber threats in robotic surgical environments, accounting for imbalanced data and critical communication indicators.
